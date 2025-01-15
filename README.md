@@ -27,7 +27,7 @@ This project is a simple Weather App that allows users to:
 
 1. Clone the repository:
    ```bash
-  (https://github.com/omkar-droid/Weather-App.git)
+  (https://github.com/omkar-droid/Weather-App.git)'''
 2.Open the index.html file in a browser.
 
 3.Replace YOUR_API_KEY in the JavaScript file with your OpenWeatherMap API key. 
